@@ -1,11 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\SalaryController;
-use App\Http\Controllers\DepartmentsController;
-use App\Http\Controllers\EmployeeController;
-
+use App\Http\Controllers\SalariesController;
+use App\Http\Controllers\DepartmentController;
+use App\Http\Controllers\EmployeesController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
